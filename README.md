@@ -52,7 +52,7 @@ krbengine/
 Клонирование репозитория:
 
 ```bash
-git clone https://github.com/danileckij5/krbengine.git
+git clone https://github.com/danileckijdd22/krbengine.git
 cd krbengine
 ```
 
